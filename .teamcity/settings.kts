@@ -45,7 +45,7 @@ object Build : BuildType({
 
     features {
         investigationsAutoAssigner {
-            excludeUsers = "test"
+            excludeUsers = "kse1920"
         }
     }
 })
